@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Funkin_Logo.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo bumin0000" x="0" y="0" width="775" height="499" frameX="-17" frameY="-13" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0001" x="775" y="0" width="814" height="525"/>
+	<SubTexture name="logo bumin0002" x="775" y="0" width="814" height="525"/>
+	<SubTexture name="logo bumin0003" x="0" y="525" width="791" height="510" frameX="-11" frameY="-7" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0004" x="0" y="525" width="791" height="510" frameX="-11" frameY="-7" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0005" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0006" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0007" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0008" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0009" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0010" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0011" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0012" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0013" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+	<SubTexture name="logo bumin0014" x="791" y="525" width="784" height="506" frameX="-13" frameY="-10" frameWidth="814" frameHeight="525"/>
+</TextureAtlas>
